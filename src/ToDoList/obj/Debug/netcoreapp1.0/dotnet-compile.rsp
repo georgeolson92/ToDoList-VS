@@ -13,6 +13,7 @@
 --version:1.0.0.0
 --informational-version:1.0.0
 --target-framework:.NETCoreApp,Version=v1.0
+--reference:C:\Users\epicodus\.nuget\packages\Ix-Async\1.2.5\lib\portable-windows8+net45+wp8\System.Interactive.Async.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.AspNetCore.Antiforgery\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.AspNetCore.Antiforgery.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.AspNetCore.Authorization\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.AspNetCore.Authorization.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.AspNetCore.Cors\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.AspNetCore.Cors.dll
@@ -49,15 +50,21 @@
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.AspNetCore.Routing.Abstractions\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.AspNetCore.Routing.Abstractions.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.AspNetCore.Server.IISIntegration\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.AspNetCore.Server.IISIntegration.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.AspNetCore.Server.Kestrel\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.AspNetCore.Server.Kestrel.dll
+--reference:C:\Users\epicodus\.nuget\packages\Microsoft.AspNetCore.StaticFiles\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.AspNetCore.StaticFiles.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.AspNetCore.WebUtilities\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.AspNetCore.WebUtilities.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.CodeAnalysis.Common\1.3.0-beta1-20160429-01\lib\netstandard1.3\Microsoft.CodeAnalysis.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.CodeAnalysis.CSharp\1.3.0-beta1-20160429-01\lib\netstandard1.3\Microsoft.CodeAnalysis.CSharp.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.CSharp\4.0.1-rc2-24027\ref\netstandard1.0\Microsoft.CSharp.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.DotNet.InternalAbstractions\1.0.0-rc2-002702\lib\netstandard1.3\Microsoft.DotNet.InternalAbstractions.dll
+--reference:C:\Users\epicodus\.nuget\packages\Microsoft.EntityFrameworkCore\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.EntityFrameworkCore.dll
+--reference:C:\Users\epicodus\.nuget\packages\Microsoft.EntityFrameworkCore.Relational\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.EntityFrameworkCore.Relational.dll
+--reference:C:\Users\epicodus\.nuget\packages\Microsoft.EntityFrameworkCore.SqlServer\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.EntityFrameworkCore.SqlServer.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.Extensions.Caching.Abstractions\1.0.0-rc2-final\lib\netstandard1.0\Microsoft.Extensions.Caching.Abstractions.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.Extensions.Caching.Memory\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.Extensions.Caching.Memory.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.Extensions.Configuration\1.0.0-rc2-final\lib\netstandard1.1\Microsoft.Extensions.Configuration.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.Extensions.Configuration.Abstractions\1.0.0-rc2-final\lib\netstandard1.0\Microsoft.Extensions.Configuration.Abstractions.dll
+--reference:C:\Users\epicodus\.nuget\packages\Microsoft.Extensions.Configuration.FileExtensions\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.Extensions.Configuration.FileExtensions.dll
+--reference:C:\Users\epicodus\.nuget\packages\Microsoft.Extensions.Configuration.Json\1.0.0-rc2-final\lib\netstandard1.3\Microsoft.Extensions.Configuration.Json.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.Extensions.DependencyInjection\1.0.0-rc2-final\lib\netstandard1.1\Microsoft.Extensions.DependencyInjection.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.Extensions.DependencyInjection.Abstractions\1.0.0-rc2-final\lib\netstandard1.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.Extensions.DependencyModel\1.0.0-rc2-final\lib\netstandard1.5\Microsoft.Extensions.DependencyModel.dll
@@ -80,6 +87,7 @@
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.Win32.Primitives\4.0.1-rc2-24027\ref\netstandard1.3\Microsoft.Win32.Primitives.dll
 --reference:C:\Users\epicodus\.nuget\packages\Microsoft.Win32.Registry\4.0.0-rc2-24027\ref\netstandard1.3\Microsoft.Win32.Registry.dll
 --reference:C:\Users\epicodus\.nuget\packages\Newtonsoft.Json\8.0.3\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll
+--reference:C:\Users\epicodus\.nuget\packages\Remotion.Linq\2.0.2\lib\portable-net45+win+wpa81+wp80\Remotion.Linq.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.AppContext\4.1.0-rc2-24027\ref\netstandard1.5\System.AppContext.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.Buffers\4.0.0-rc2-24027\lib\netstandard1.1\System.Buffers.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.Collections\4.0.11-rc2-24027\ref\netstandard1.3\System.Collections.dll
@@ -90,6 +98,8 @@
 --reference:C:\Users\epicodus\.nuget\packages\System.ComponentModel.Primitives\4.0.1-rc2-24027\ref\netstandard1.0\System.ComponentModel.Primitives.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.ComponentModel.TypeConverter\4.0.1-rc2-24027\ref\netstandard1.0\System.ComponentModel.TypeConverter.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.Console\4.0.0-rc2-24027\ref\netstandard1.3\System.Console.dll
+--reference:C:\Users\epicodus\.nuget\packages\System.Data.Common\4.0.1-rc2-24027\ref\netstandard1.0\System.Data.Common.dll
+--reference:C:\Users\epicodus\.nuget\packages\System.Data.SqlClient\4.1.0-rc2-24027\ref\netstandard1.3\System.Data.SqlClient.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.Diagnostics.Contracts\4.0.1-rc2-24027\ref\netstandard1.0\System.Diagnostics.Contracts.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.Diagnostics.Debug\4.0.11-rc2-24027\ref\netstandard1.3\System.Diagnostics.Debug.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.Diagnostics.DiagnosticSource\4.0.0-rc2-24027\lib\netstandard1.3\System.Diagnostics.DiagnosticSource.dll
@@ -164,4 +174,9 @@
 --resource:"C:\Users\epicodus\Desktop\Test2\ToDoList\src\ToDoList\obj\Debug\netcoreapp1.0\ToDoListdotnet-compile.deps.json",ToDoList.deps.json
 C:\Users\epicodus\Desktop\Test2\ToDoList\src\ToDoList\Program.cs
 C:\Users\epicodus\Desktop\Test2\ToDoList\src\ToDoList\Startup.cs
+C:\Users\epicodus\Desktop\Test2\ToDoList\src\ToDoList\Controllers\CategoriesController.cs
 C:\Users\epicodus\Desktop\Test2\ToDoList\src\ToDoList\Controllers\HomeController.cs
+C:\Users\epicodus\Desktop\Test2\ToDoList\src\ToDoList\Controllers\ItemsController.cs
+C:\Users\epicodus\Desktop\Test2\ToDoList\src\ToDoList\Models\Category.cs
+C:\Users\epicodus\Desktop\Test2\ToDoList\src\ToDoList\Models\Item.cs
+C:\Users\epicodus\Desktop\Test2\ToDoList\src\ToDoList\Models\ToDoListContext.cs
